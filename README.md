@@ -1,7 +1,7 @@
 <h1 align="center"> More | Talent Tech</h1>
 
 <p align="center">
-Landigpage para estudo<br/>
+Landigpage para estudo!<br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
